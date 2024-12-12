@@ -17,12 +17,7 @@
     "role": "Graphic Designer",
     "image": "../images/u3.jpg"
   },
-  {
-    "id": 4,
-    "title": "Social Media Ads",
-    "category": "Digital Marketing",
-    "image": "https://via.placeholder.com/300"
-  },
+ 
   {
     "id": 5,
     "title": "E-commerce Website",
