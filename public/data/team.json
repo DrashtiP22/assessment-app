@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Frontend Developer",
+    "image": "../images/u1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "Project Manager",
+    "image": "../images/u2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sam Brown",
+    "role": "Graphic Designer",
+    "image": "../images/u3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Social Media Ads",
+    "category": "Digital Marketing",
+    "image": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Website",
+    "category": "Website Development",
+    "image": "../images/i5.jpg"
+  }
+]

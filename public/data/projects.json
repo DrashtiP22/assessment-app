@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Website Redesign",
+    "category": "Website Development",
+    "image": "../images/i1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Marketing Campaign",
+    "category": "Digital Marketing",
+    "image": "../images/i2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Logo Design",
+    "category": "Graphic Design",
+    "image": "../images/i3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Social Media Ads",
+    "category": "Digital Marketing",
+    "image": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Website",
+    "category": "Website Development",
+    "image": "../images/i5.jpg"
+  }
+]
